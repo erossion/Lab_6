@@ -1,0 +1,14 @@
+C:\Mine\Web_Development_item\Lab_6\loop\loop\bin\Debug\net8.0\loop.exe
+C:\Mine\Web_Development_item\Lab_6\loop\loop\bin\Debug\net8.0\loop.deps.json
+C:\Mine\Web_Development_item\Lab_6\loop\loop\bin\Debug\net8.0\loop.runtimeconfig.json
+C:\Mine\Web_Development_item\Lab_6\loop\loop\bin\Debug\net8.0\loop.dll
+C:\Mine\Web_Development_item\Lab_6\loop\loop\bin\Debug\net8.0\loop.pdb
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\loop.AssemblyInfoInputs.cache
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\loop.AssemblyInfo.cs
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\loop.csproj.CoreCompileInputs.cache
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\loop.dll
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\refint\loop.dll
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\loop.pdb
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\loop.genruntimeconfig.cache
+C:\Mine\Web_Development_item\Lab_6\loop\loop\obj\Debug\net8.0\ref\loop.dll
